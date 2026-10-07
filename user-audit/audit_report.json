@@ -1,0 +1,357 @@
+{
+    "users": [
+        {
+            "username": "root",
+            "uid": 0,
+            "account_type": "PRIVILEGED",
+            "shell": "/usr/bin/zsh"
+        },
+        {
+            "username": "daemon",
+            "uid": 1,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "bin",
+            "uid": 2,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "sys",
+            "uid": 3,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "sync",
+            "uid": 4,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/bin/sync"
+        },
+        {
+            "username": "games",
+            "uid": 5,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "man",
+            "uid": 6,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "lp",
+            "uid": 7,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "mail",
+            "uid": 8,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "news",
+            "uid": 9,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "uucp",
+            "uid": 10,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "proxy",
+            "uid": 13,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "www-data",
+            "uid": 33,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "backup",
+            "uid": 34,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "list",
+            "uid": 38,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "irc",
+            "uid": 39,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "_apt",
+            "uid": 42,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "nobody",
+            "uid": 65534,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "systemd-network",
+            "uid": 997,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "_dhcpcd",
+            "uid": 995,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/sbin/nologin"
+        },
+        {
+            "username": "systemd-timesync",
+            "uid": 989,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "messagebus",
+            "uid": 988,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "tss",
+            "uid": 986,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "strongswan",
+            "uid": 100,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "tcpdump",
+            "uid": 985,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "sshd",
+            "uid": 984,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "_rpc",
+            "uid": 101,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "statd",
+            "uid": 102,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "dnsmasq",
+            "uid": 983,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "avahi",
+            "uid": 103,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "nm-openvpn",
+            "uid": 981,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "speech-dispatcher",
+            "uid": 980,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/bin/false"
+        },
+        {
+            "username": "usbmux",
+            "uid": 104,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "nm-openconnect",
+            "uid": 979,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "pipewire",
+            "uid": 978,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "saned",
+            "uid": 105,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "lightdm",
+            "uid": 106,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/bin/false"
+        },
+        {
+            "username": "polkitd",
+            "uid": 977,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "rtkit",
+            "uid": 976,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "colord",
+            "uid": 975,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "pcscd",
+            "uid": 974,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "geoclue",
+            "uid": 973,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "Debian-snmp",
+            "uid": 107,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/bin/false"
+        },
+        {
+            "username": "sslh",
+            "uid": 108,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "stunnel",
+            "uid": 971,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "cups-pk-helper",
+            "uid": 109,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "redsocks",
+            "uid": 110,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "_gophish",
+            "uid": 111,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "iodine",
+            "uid": 112,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "miredo",
+            "uid": 113,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "redis",
+            "uid": 114,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "postgres",
+            "uid": 115,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/bin/bash"
+        },
+        {
+            "username": "mosquitto",
+            "uid": 970,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "inetsim",
+            "uid": 116,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "mysql",
+            "uid": 969,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/bin/false"
+        },
+        {
+            "username": "_gvm",
+            "uid": 117,
+            "account_type": "SYSTEM ACCOUNT",
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "kali",
+            "uid": 1000,
+            "account_type": "LIKELY HUMAN USER",
+            "shell": "/usr/bin/zsh"
+        }
+    ],
+    "sudo_users": [
+        "kali"
+    ],
+    "authentication_failures": 4,
+    "disk_space": {
+        "total_gb": 78.28,
+        "used_gb": 15.58,
+        "free_gb": 58.68,
+        "usage_percent": 19.9
+    },
+    "open_ports": []
+}
